@@ -54,7 +54,39 @@ body {
 }
 
 /* EXERCÍCIO Ii */
+.container {
+    display: flex;
+    width: 500px;
+    height: 250px;
+    background-color: antiquewhite;
+}
 
+.div6 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    display: flex;
+    align-self: flex-end;
+}
 
+.div7 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    display: flex;
+}
+
+.div8 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+
+.div9 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
 
 
